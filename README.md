@@ -2,6 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Initial Setup
+
+Created React App using npx create-react-app 'file_name'
+
+### Dependencies:
+
+react-router-dom
+axios
+lodash
+redux
+react-redux
+redux-thunk
+
+For Styling:
+@material-ui/core
+@material-ui/icons
+@material-ui/styles
+bootstrap
+
+
 ## Available Scripts
 
 In the project directory, you can run:
