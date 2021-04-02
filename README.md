@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Working Video demo of Application
+
+
+https://user-images.githubusercontent.com/62937738/113371132-338fe800-9383-11eb-8936-4c96a41a311c.mp4
+
+
+
 ## Initial Setup
 
 Created React App using npx create-react-app 'file_name'
@@ -25,6 +32,32 @@ redux-thunk
 @material-ui/icons
 @material-ui/styles
 bootstrap
+
+## Preview of Application
+
+### `Home Page of Application`
+
+![1](https://user-images.githubusercontent.com/62937738/113370348-443f5e80-9381-11eb-9f93-53192d4dae3e.PNG)
+
+### `After clicking on Login Button`
+
+![2](https://user-images.githubusercontent.com/62937738/113370400-620cc380-9381-11eb-84d2-c51251a90a47.PNG)
+
+### `After Successful Authorization`
+
+![3](https://user-images.githubusercontent.com/62937738/113370439-7d77ce80-9381-11eb-8896-f053bae712c6.PNG)
+
+### `Redirection to Deshboard Page`
+
+![4](https://user-images.githubusercontent.com/62937738/113370475-96807f80-9381-11eb-809c-14b7e1d988c4.PNG)
+
+### `Dashboard Page after user Search`
+
+![5](https://user-images.githubusercontent.com/62937738/113370498-a9934f80-9381-11eb-9168-86e5bf0bd3ca.PNG)
+
+### `When a user clicks on any song item he/she is redirected to the Spotify Page for that particular song.
+
+![6](https://user-images.githubusercontent.com/62937738/113370605-e8290a00-9381-11eb-8093-de68542dff50.PNG)
 
 
 ## To connect Spotify to your application
